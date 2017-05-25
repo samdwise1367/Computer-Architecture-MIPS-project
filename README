@@ -1,0 +1,6 @@
+The code I wrote was written in python 2
+The file can be lauched by navigating to the src folder and then issue the command below:
+python simulator.py instr.txt config.txt data.txt output.txt
+
+information about the paramter also be read by issuing the command below:
+python simulator.py -h
